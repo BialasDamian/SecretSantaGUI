@@ -1,0 +1,36 @@
+Instructions: Creating the "Secret Santa" Program
+
+Step 1: Installing Python
+      1. Go to python.org/downloads.
+      2. Download and install the latest version of Python for your operating system (Windows, macOS, or Linux). Make sure to check the option "Add Python to PATH" during installation.
+
+Step 2: Installing Required Libraries:
+
+Open your command prompt or terminal and type the following commands:
+
+      Copy code:
+          pip install tk
+      
+      Copy code:
+          pip install random
+      
+      Copy code:
+          pip install messagebox
+
+Step 3: Downloading and Running the Script
+      1. Copy the entire code of the program provided to you.
+      2. Open Notepad or any other simple text editing application.
+      3. Paste the copied code into the new document.
+      4. Save the file with a .py extension, for example, SecretSanta.py. Remember to choose "All Files" as the file type when saving.
+      5. Run the script by double-clicking on the SecretSanta.py file.
+
+Step 4: Using the Program
+      1. After running, a window with a graphical interface will appear.
+      2. Enter the names of the participants in the text field and click "Add".
+      3. Once you've added all the names, you can click "Draw" to conduct the drawing.
+      4. The program will inform you about who was drawn for whom. Make sure no one is peeking at your computerized drawing!
+      5. After finishing, there will be a message indicating that all drawings have been completed.
+
+Note:
+This program is created for entertainment purposes. Make sure participants are aware of the game and do not use it in a way that violates the law or makes others uncomfortable.
+
